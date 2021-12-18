@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/w6pCnwjiAG.gif' />
+<img src='https://im5.ezgif.com/tmp/ezgif-5-5a3f55fe5f.gif' />
 
 # Project 3 - Twitter part 1
 
